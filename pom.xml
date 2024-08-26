@@ -21,7 +21,7 @@
 	<properties>
 		<!-- <docker.image.prefix>springio</docker.image.prefix> -->
 		<axonframework-version>2.4.3</axonframework-version>
-		<springfox-swagger-version>2.2.2</springfox-swagger-version>
+		<springfox-swagger-version>2.10.0</springfox-swagger-version>
 		<docker.image.prefix>jijolawrence</docker.image.prefix>
 		<java.version>1.8</java.version>
 	</properties>
